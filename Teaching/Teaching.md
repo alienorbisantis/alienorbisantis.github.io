@@ -4,7 +4,6 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
-&nbsp; 
 
 Technics Statistics (TA) - 2022, 2023
 
