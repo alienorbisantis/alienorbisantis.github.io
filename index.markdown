@@ -6,7 +6,7 @@ layout: home
 ---
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaisionaaaaaaaaaaa [play a game]({{ site.github.url }}/assets/img/bateau.png).
+aaaaaaaaaaisionaaaaaaaaaaa [play a game]({{ site.github.url }}/assets//CV_BISANTIS_eng (9).pdf).
 &nbsp;  
 
 I am on the 2023/2024 Job Market 
