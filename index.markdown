@@ -6,7 +6,7 @@ layout: home
 ---
 
 aaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaisionaaaaaaaaaaa [play a game](https://cemantix.certitudes.org/pedantix).
+aaaaaaaaaaisionaaaaaaaaaaa [play a game]({{ site.github.url }}/assets/img/bateau.png).
 &nbsp;  
 
 I am on the 2023/2024 Job Market 
