@@ -7,5 +7,5 @@ urlcolor: blue
 
 Statistical methods (TA) - Undergraduate - 2022, 2023
 
-Statistical Approach to Economic and Social issues (TA) - Undergraduate - 2023
+Statistical approach to economic and social issues (TA) - Undergraduate - 2023
 &nbsp;  
