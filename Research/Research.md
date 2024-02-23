@@ -10,7 +10,6 @@ urlcolor: green
 </div>
 &nbsp;  
 
- Bonjour test estce que c m eche
 "Missing Women in Research" (with Yann Bramoullé, Roberta Ziparo)
  <p align="justify">
 <sub> Matching the universe of PhD graduations in France across all disciplines between 1988 and 2021 and Scopus bibliometric data, we estimate the number of missing women in academia both on the extensive - the probability of publishing - and the intensive margin - the number of missing publications. 
