@@ -9,7 +9,8 @@ Research interests: Gender, economics of science, higher education, academia
 
 You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CV_BISANTIS_eng (9).pdf).
 
-[Follow me on X.](https://twitter.com/bisalienor)
+[Follow me on X.](/twitter.com/bisalienor)
+
 &nbsp;  
 
 
