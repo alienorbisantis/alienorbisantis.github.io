@@ -1,4 +1,0 @@
----
-layout: Research
-title: "Research"
----
