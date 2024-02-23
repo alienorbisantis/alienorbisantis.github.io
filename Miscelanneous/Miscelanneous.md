@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /Miscelanneous/
-title: "Miscelanneous"
+title: "Miscellaneous"
 urlcolor: blue
 ---
 
