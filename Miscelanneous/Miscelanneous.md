@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /Miscelanneous/
+permalink: /Miscellaneous/
 title: "Miscellaneous"
 urlcolor: blue
 ---
