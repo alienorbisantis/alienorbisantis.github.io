@@ -1,11 +1,11 @@
 ---
 layout: home
-title: "Home"
+title: "Aliénor Bisantis"
 ---
 
-I am a PhD Candidate at Aix-Marseille School of Economics.
+I am a 2nd year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE).
 
-Research interests: Gender, economics of science, higher education, academia
+Research interests: Gender, economics of science, scientific productivity and higher education
 
 You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CV_BISANTIS_eng (9).pdf).
 
