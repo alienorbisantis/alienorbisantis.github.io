@@ -3,7 +3,7 @@ layout: home
 title: "Aliénor Bisantis"
 ---
 
-I am a 2nd year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE).
+I am a 2nd year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
 
 Research interests: Gender, economics of science, scientific productivity and higher education
 
