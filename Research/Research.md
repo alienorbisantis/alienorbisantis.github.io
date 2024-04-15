@@ -19,5 +19,5 @@ We explore how the number of missing women varies across time and disciplines. W
 "Decoding Choices: Women, Motherhood, and Academic Career Paths"
 <p align="justify">
 
-"Chess and Gender" (with Sam Jackson, Emma Paladino)
+"Gender Gap in Chess and Online Competitions"" (with Sam Jackson, Emma Paladino)
 &nbsp; 
