@@ -25,4 +25,3 @@ We explore how the number of missing women varies across time and disciplines. W
  
 "Decoding Choices: Women, Motherhood, and Academic Career Paths"
 
-&nbsp;
