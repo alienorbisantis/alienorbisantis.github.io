@@ -16,7 +16,7 @@ urlcolor: green
 </p>
  
 <p align="justify">
-<sub> <b>Presented at:</b> PhD Seminar (AMSE, 2023; 2024); Junior Research Day (Collège de France, 2024); AFÉPOP (INED, 2024). <b>Scheduled:</b> JMA (Lille, 2024); PhD Seminar (CREST, 2024); LAGV (Marseille, 2024) </sub>
+<sub> <b>Presented at:</b> PhD Seminar (AMSE, 2023; 2024); Junior Research Day (Collège de France, 2024); AFÉPOP (INED, 2024); JMA (Lille, 2024); PhD Seminar (CREST, 2024); LAGV (Marseille, 2024) </sub>
 
 </p>
 &nbsp;  
