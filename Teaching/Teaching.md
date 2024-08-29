@@ -4,6 +4,7 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
+Mathematics (TA) - Undergraduate - 2024
 
 Statistical methods (TA) - Undergraduate - 2022, 2023
 
