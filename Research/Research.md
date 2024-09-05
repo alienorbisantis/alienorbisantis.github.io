@@ -22,12 +22,8 @@ urlcolor: green
 &nbsp;  
 
 
-"Gender Gap in Chess and Online Competitions" (with Sam Jackson, Emma Paladino)
- <p align="justify">
-<sub> Despite women representing 10% of chess players around the world, the one-hundred highest rated players in world-rankings are men. Empirical evidence has demonstrated the existence of a small but significant disadvantage faced by women when facing male counterparts in official competition, which is not explained by age, experience or objective skill level. Existing works have conjectured as explanatory factors some elements of the environment in which official chess competitions are held. Indeed, chess is a male centric sports and its culture is strill strongly male dominated. Moreover, players often compete in full view of other competitors and spectators. These cultural and environmental conditions might contribute to a psychologically discouraging effect for female competitors. This paper aims to examine this mechanism. Using data from FIDE sanctioned tournaments from 2020 onwards, we determine whether the disadvantage faced by women remains even once that the majority of tournaments are played online. The analysis focuses on the outcome of the matches, as well as on the accuracy of the players. </sub>
-</p>
-&nbsp; 
-
-
 "Decoding Choices: Women, Motherhood, and Academic Career Paths"
+
+<p align="justify">
+<sub> <b>Presented at:</b> PhD Seminar (AMSE, 2024); IOEA Spring School (Cargèse, 2024) </sub>
 
