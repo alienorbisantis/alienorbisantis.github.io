@@ -22,7 +22,7 @@ urlcolor: green
 &nbsp;  
 
 
-"Decoding Choices: Women, Motherhood, and Academic Career Paths"
+"Gender Disparities in French Academic Carreers: A Multi-Stage Analysis of Selection"
 
 <p align="justify">
 <sub> <b>Presented at:</b> PhD Seminar (AMSE, 2024); IOEA Spring School (Cargèse, 2024) </sub>
