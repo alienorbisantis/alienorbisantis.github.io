@@ -11,7 +11,7 @@ You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ s
 
 Visiting Boston University during the Spring Semester!
 
-[Also on X.](https://twitter.com/bisalienor) and [Bluesky](https://bsky.app/profile/bisalienor.bsky.social)
+[Also on X](https://twitter.com/bisalienor) and [Bluesky.](https://bsky.app/profile/bisalienor.bsky.social)
 
 &nbsp;  
 
