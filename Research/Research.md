@@ -27,3 +27,10 @@ urlcolor: green
 <p align="justify">
 <sub> <b>Presented at:</b> PhD Seminar (AMSE, 2024); IOEA Spring School (Cargèse, 2024) </sub>
 
+</p>
+&nbsp;  
+
+
+"Hiding the Queen: Anonymous Competitions and Gender Performance in a Randomized Chess Experiment" (with Jose De Sousa, Emma Paladino)
+
+
