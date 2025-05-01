@@ -5,7 +5,7 @@ title: "Aliénor Bisantis"
 
 I am a 3rd year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
 
-My research interests: gender, labor, economics of science, academic careers, education.
+In my research, I document gender gaps across academic disciplines and examine how competition in male-dominated environments affects women's performance and career trajectories.
 
 I was visiting Boston University in Spring 2025, invited by Professor [Patricia Cortés](https://sites.google.com/site/pcortesbu/).
 
