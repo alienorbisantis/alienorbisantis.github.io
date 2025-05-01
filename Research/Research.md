@@ -16,7 +16,7 @@ urlcolor: green
 </p>
  
 <p align="justify">
-<sub> <b>Presented at:</b> PhD Seminar (AMSE, 2023; 2024); Junior Research Day (Collège de France, 2024); AFÉPOP (INED, 2024); JMA (Lille, 2024); PhD Seminar (CREST, 2024); LAGV (Marseille, 2024), Empirical Micro Reading Group (Boston University, 2025) </sub>
+<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2023; 2024); Junior Research Day - Collège de France (Paris, 2024); AFÉPOP (Aubervilliers, 2024); JMA (Lille, 2024); PhD Seminar - CREST (Palaiseau, 2024); LAGV (Marseille, 2024), Empirical Micro Reading Group - Boston University (Boston, 2025) </sub>
 
 </p>
 &nbsp;  
@@ -25,7 +25,7 @@ urlcolor: green
 "Gender Disparities in French Academic Carreers: A Multi-Stage Analysis of Selection"
 
 <p align="justify">
-<sub> <b>Presented at:</b> PhD Seminar (AMSE, 2024); IOEA Spring School (Cargèse, 2024), Gender Reading Group (Boston University, 2025), Applied Micro Workshop (Boston University, 2025) </sub>
+<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025) <b> To come:</b> AFÉPOP (Marseille, 2025); STATA (Marseille, 2025); EEA (Bordeaux, 2025) </sub>
 
 </p>
 &nbsp;  
@@ -34,5 +34,5 @@ urlcolor: green
 "Hiding the Queen: Anonymous Competitions and Gender Performance in a Randomized Chess Experiment" (with Jose De Sousa and Emma Paladino)
 
 <p align="justify">
-<sub> <b>Presented at:</b> HCI Seminar (GDP Center, 2025)
+<sub> <b>Presented at:</b> HCI Seminar - GDP Center (Boston, 2025)
 
