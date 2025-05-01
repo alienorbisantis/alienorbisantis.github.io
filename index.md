@@ -9,6 +9,8 @@ My research interests: gender, labor, economics of science, academic careers, ed
 
 I was visiting Boston University in Spring 2025, invited by Professor [Patricia Cortés](https://sites.google.com/site/pcortesbu/).
 
+I will be visiting DIW Berlin in June 2025, invited by Professor [Katharina Wrohlich](https://scholar.google.de/citations?user=dJY35cYAAAAJ&hl=de).
+
 You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CVBISANTISAlienor_eng.pdf).
 
 [Also on X](https://twitter.com/bisalienor) and [Bluesky.](https://bsky.app/profile/bisalienor.bsky.social)
