@@ -25,7 +25,7 @@ urlcolor: green
 "Gender Disparities in French Academic Carreers: A Multi-Stage Analysis of Selection"
 
 <p align="justify">
-<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025). <b> Scheduled:</b> AFÉPOP (Marseille, 2025); Applied econometrics using Stata (Marseille, 2025); LAGV (Marseille, 2025); EEA (Bordeaux, 2025) </sub>
+<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025); AFÉPOP (Marseille, 2025); Applied econometrics using Stata (Marseille, 2025); Cluster Seminar - DIW Berlin (Berlin, 2025) <b> Scheduled:</b> LAGV (Marseille, 2025); EEA (Bordeaux, 2025) </sub>
 
 </p>
 &nbsp;  
@@ -34,5 +34,5 @@ urlcolor: green
 "Hiding the Queen: Anonymous Competitions and Gender Performance in a Randomized Chess Experiment" (with Jose De Sousa and Emma Paladino)
 
 <p align="justify">
-<sub> <b>Presented at:</b> HCI Seminar - GDP Center (Boston, 2025)
+<sub> <b>Presented at:</b> HCI Seminar - GDP Center (Boston, 2025); Behavioral/Experimental Reading Group - Humboldt University (Berlin, 2025)
 
