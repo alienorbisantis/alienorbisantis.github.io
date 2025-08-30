@@ -9,6 +9,8 @@ In my research, I document gender gaps across academic disciplines and examine h
 
 I was visiting Boston University in Spring 2025, invited by Professor [Patricia Cortés](https://sites.google.com/site/pcortesbu/) and DIW Berlin in June 2025, invited by Professor [Katharina Wrohlich](https://scholar.google.de/citations?user=dJY35cYAAAAJ&hl=de).
 
+**I will be on the 2025-2026 Economic Job Market.**
+
 You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CVBISANTISAlienor_eng.pdf).
 
 [Also on X](https://twitter.com/bisalienor) and [Bluesky.](https://bsky.app/profile/bisalienor.bsky.social)
