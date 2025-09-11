@@ -4,7 +4,9 @@ permalink: /Teaching/
 title: "Teaching"
 urlcolor: blue
 ---
-Economic Principles (TA) - Undergraduate - 2024
+Development (TA) - Undergraduate - 2025
+
+Economic Principles (TA) - Undergraduate - 2024, 2025
 
 Mathematics (TA) - Undergraduate - 2024
 
