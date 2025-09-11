@@ -25,7 +25,7 @@ urlcolor: green
 "Gender Disparities in French Academic Carreers: A Multi-Stage Analysis of Selection"
 
 <p align="justify">
-<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025); AFÉPOP (Marseille, 2025); Applied econometrics using Stata (Marseille, 2025); Cluster Seminar - DIW Berlin (Berlin, 2025) <b> Scheduled:</b> LAGV (Marseille, 2025); EEA (Bordeaux, 2025) </sub>
+<sub> <b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025); AFÉPOP (Marseille, 2025); Applied econometrics using Stata (Marseille, 2025); Cluster Seminar - DIW Berlin (Berlin, 2025); LAGV (Marseille, 2025); EEA (Bordeaux, 2025) <b> Scheduled:</b> EDGE conference (Cambridge, 2025) </sub>
 
 </p>
 &nbsp;  
