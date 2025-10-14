@@ -10,7 +10,6 @@ urlcolor: green
 &nbsp;  
 
 "Gender Differences in Academic Mobility" 
- <p align="justify">
 
  
 <p align="justify">
@@ -47,6 +46,7 @@ urlcolor: green
 
 </p>
 &nbsp;  
+
 
 
 "Hiding the Queen: Anonymous Competitions and Gender Performance in a Randomized Chess Experiment" (with Jose De Sousa and Emma Paladino)
