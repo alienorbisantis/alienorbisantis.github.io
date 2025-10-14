@@ -11,8 +11,7 @@ urlcolor: green
 
 "Gender Differences in Academic Mobility" 
  <p align="justify">
-<sub> Women account for nearly half of PhD graduates in Europe and the United States but remain underrepresented among university faculty, especially in STEM. This paper investigates the mechanisms behind these gaps, focusing on the role of geographic mobility. Using a novel dataset that links the universe of French PhD graduates to bibliometric and administrative records on qualification and faculty job applications, I track career outcomes from PhD graduation to permanent junior positions. I further document that women apply to fewer locations, closer to their PhD institution, and over narrower distances. These findings identify mobility constraints as a mechanism shaping gender inequality in academic careers. </sub> 
-</p>
+
  
 <p align="justify">
 <sub> <b>Presented at:</b> EEA (Bordeaux, 2025); EDGE conference (Cambridge, 2025) </sub>
