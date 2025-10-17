@@ -3,7 +3,7 @@ layout: home
 title: "Aliénor Bisantis"
 ---
 
-I am a 3rd year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
+I am a 4th year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
 
 In my research, I document gender gaps across academic disciplines and examine how competition in male-dominated environments affects women's performance and career trajectories.
 
