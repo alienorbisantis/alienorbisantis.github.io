@@ -10,7 +10,7 @@ title: "Research"
 </div>
 &nbsp;  
 
-"Gender Differences in Academic Mobility" 
+"Gender and Academic Mobility" 
 
 <p align="justify">
 <sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025)</sub>
