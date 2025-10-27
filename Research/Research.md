@@ -17,7 +17,7 @@ title: "Research"
  </p>
  
 <p align="justify">
-<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025)</sub>
+<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025); PhD Seminar (Marseille, 2025)</sub>
 </p>
 &nbsp;  
 
