@@ -10,7 +10,7 @@ title: "Research"
 </div>
 &nbsp;  
 
-"Gender and Academic Mobility" 
+["Gender and Academic Mobility"]({{ site.github.url }}/assets//pdf//JMP_BISANTIS.pdf) 
 
 <p align="justify">
 <sub>What explains the gender gap in academic careers? This paper studies the role of geographic mobility in shaping gender disparities. I use new administrative data from France linking the universe of PhD graduates to application and hiring outcomes in public universities. First, I show that women submit fewer applications, over shorter distances, and are more locally concentrated than men. Second, I exploit exogenous variation in the spatial distribution of job openings across disciplines to estimate the causal effect of mobility on hiring. I find that reduced mobility lowers both the number of applications and the probability of securing a position. Overall, these results suggest that geographic mobility constraints are a key mechanism behind persistent gender inequality in academia.</sub>
