@@ -11,7 +11,7 @@ I was visiting Boston University in Spring 2025, invited by Professor [Patricia 
 
 **I will be on the 2025-2026 Economic Job Market.**
 
-You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CVBISANTISAlienor_eng.pdf).
+You can contact me at alienor.bisantis(at)univ-amu.fr and [Download my CV.]({{ site.github.url }}/assets//CVBISANTISAlienor_Nov2025.pdf).
 
 [Also on X](https://twitter.com/bisalienor) and [Bluesky.](https://bsky.app/profile/bisalienor.bsky.social)
 
