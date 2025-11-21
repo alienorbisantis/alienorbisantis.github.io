@@ -10,7 +10,7 @@ title: "Research"
 </div>
 &nbsp;  
 
-"[Gender and Academic Mobility]"({{ site.github.url }}/assets//pdf//JMP_BISANTIS.pdf) 
+"[Gender and Academic Mobility]({{ site.github.url }}/assets//pdf//JMP_BISANTIS.pdf)" 
 
 <p align="justify">
 <sub>What explains the gender gap in academic careers? This paper studies how geographic mobility constraints contribute to gender disparities in academic hiring, using novel administrative data covering the universe of PhD graduates in France between 2009 and 2021. I link individuals to the full set of job openings in their field and year of first application to analyze job search behavior and outcomes. First, I show that women apply to fewer positions, over shorter distances, and are more likely to target universities near their PhD institution. Second, I leverage quasi-random variation in the geographic structure of the job market across fields and cohorts to show that candidates facing more distant openings apply to fewer positions and are less likely to secure a job. Women respond more negatively to geographically distant markets, making them more exposed to these spatial frictions. Finally, I quantify the extent to which mobility constraints contribute to gender gaps in hiring: conditional on facing the same job market structure, women’s stronger sensitivity to distance lowers their probability of securing a position by 1.71 percentage points relative to men,  representing about 20\% of the average hiring rate. Taken together, the findings highlight geographic mobility constraints as a meaningful and previously underexplored mechanism contributing to gender disparities in academic careers.</sub>
@@ -26,7 +26,7 @@ title: "Research"
 </div>
 &nbsp;  
 
-"[Missing Women in Research]"({{ site.github.url }}/assets//pdf//Missing_Women.pdf) (with Yann Bramoullé and Roberta Ziparo)
+"[Missing Women in Research]({{ site.github.url }}/assets//pdf//Missing_Women.pdf)" (with Yann Bramoullé and Roberta Ziparo)
 
 <p align="justify">
 <sub>We provide the first comprehensive analysis of gender gaps in academic trajectories post-graduation for an entire country, across all academic disciplines, and over more than 30 years. To do this, we combine data on the universe of PhD graduations in France between 1988 and 2021 with data on academic publications. We document the presence of persistent negative gender gaps. Strikingly, these gaps are, if anything, worse in disciplines where women are well represented among PhD graduates. Overall, women with a PhD are less likely than men to ever publish in Humanities and Law, STEM, and Social Sciences. Publishing women publish fewer publications than publishing men in all fields, and these publications have lower impact in Biological and Earth Sciences and Social Sciences. We detect positive gender gaps in two cases: women are more likely than men to ever publish in Biological and Earth Sciences, and publications of publishing women have a higher impact in STEM. While most disciplines outside of STEM have reached or exceeded gender parity among PhD graduates, our results suggest the existence of significant barriers affecting women in the transition from a PhD to an academic career. We estimate that removing these barriers would lead 15% of non-publishing female PhD graduates to become academically active, representing a significant number of missing women in research.</sub>
