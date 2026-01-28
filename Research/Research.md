@@ -17,7 +17,7 @@ title: "Research"
  </p>
  
 <p align="justify">
-<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026): ADRES (Paris, 2026) </sub>
+<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026); ADRES (Paris, 2026) </sub>
 </p>
 &nbsp;  
 
