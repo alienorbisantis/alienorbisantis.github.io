@@ -17,7 +17,7 @@ title: "Research"
  </p>
  
 <p align="justify">
-<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026); ADRES (Paris, 2026) </sub>
+<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge UK, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026); ADRES (Paris, 2026). CORE/IRES internal seminar (Louvain-la-Neuve, 2026) </sub>
 </p>
 &nbsp;  
 
@@ -33,7 +33,7 @@ title: "Research"
 </p>
  
 <p align="justify">
-<sub><b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2023; 2024); Junior Research Day - Collège de France (Paris, 2024); AFÉPOP (Aubervilliers, 2024); JMA (Lille, 2024); PhD Seminar - CREST (Palaiseau, 2024); LAGV (Marseille, 2024); Empirical Micro Reading Group - Boston University (Boston, 2025)</sub>
+<sub><b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2023; 2024); Junior Research Day - Collège de France (Paris, 2024); AFÉPOP (Aubervilliers, 2024); JMA (Lille, 2024); PhD Seminar - CREST (Palaiseau, 2024); LAGV (Marseille, 2024); Empirical Micro Reading Group - Boston University (Boston US, 2025)</sub>
 </p>
 &nbsp;  
 
@@ -44,7 +44,7 @@ title: "Research"
 </p>
  
 <p align="justify">  
-<sub><b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston, 2025); Applied Micro Workshop - Boston University (Boston, 2025); AFÉPOP (Marseille, 2025); Applied Econometrics Using Stata (Marseille, 2025); Cluster Seminar - DIW Berlin (Berlin, 2025); LAGV (Marseille, 2025)</sub>
+<sub><b>Presented at:</b> PhD Seminar - AMSE (Marseille, 2024); IOEA Spring School (Cargèse, 2024); Gender Reading Group - Boston University (Boston US, 2025); Applied Micro Workshop - Boston University (Boston US, 2025); AFÉPOP (Marseille, 2025); Applied Econometrics Using Stata (Marseille, 2025); Cluster Seminar - DIW Berlin (Berlin, 2025); LAGV (Marseille, 2025)</sub>
 </p>
 &nbsp;  
 
@@ -53,6 +53,6 @@ title: "Research"
 "Hiding the Queen: Anonymous Competitions and Gender Performance in a Randomized Chess Experiment" (with Jose De Sousa and Emma Paladino)
 
 <p align="justify">
-<sub><b>Presented at:</b> HCI Seminar - GDP Center (Boston, 2025); Behavioral/Experimental Reading Group - Humboldt University (Berlin, 2025)</sub>
+<sub><b>Presented at:</b> HCI Seminar - GDP Center (Boston US, 2025); Behavioral/Experimental Reading Group - Humboldt University (Berlin, 2025)</sub>
 </p>
 &nbsp;  
