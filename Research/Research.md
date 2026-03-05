@@ -17,7 +17,7 @@ title: "Research"
  </p>
  
 <p align="justify">
-<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge UK, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026); ADRES (Paris, 2026). CORE/IRES internal seminar (Louvain-la-Neuve, 2026) </sub>
+<sub><b>Presented at:</b> EEA (Bordeaux, 2025); EDGE Conference (Cambridge UK, 2025); PhD Seminar - AMSE (Marseille, 2025); Applied Lunch Seminar - PSE (Paris, 2026); ADRES (Paris, 2026); CORE/IRES internal seminar (Louvain-la-Neuve, 2026). Scheduled: Spring NBER Conference (Boston US, 2026) </sub>
 </p>
 &nbsp;  
 
