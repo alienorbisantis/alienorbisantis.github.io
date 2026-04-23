@@ -29,7 +29,7 @@ title: "Research"
 "Missing Women in Research" (with Yann Bramoullé and Roberta Ziparo)
 
 <p align="justify">
-<sub>We provide the first comprehensive, country-wide analysis of gender gaps in academic trajectories after PhD graduation, covering 30 years and all academic disciplines. Combining data on all French PhD graduates and all academic publications, we document persistent and sizable negative gender gaps. Women are less likely to ever publish than men and publishing women publish less publications than publishing men in all fields of research and career stages. These negative gaps have not declined over time and are not particularly worse in STEM. Our findings provide evidence of substantial and persistent gendered barriers operating early in academic career. We estimate that removing these barriers would increase the population of women in research by about 27\%.</sub>
+<sub>We provide the first comprehensive, country-wide analysis of gender gaps in academic trajectories after PhD graduation, covering 30 years and all academic disciplines. Combining data on all French PhD graduates and all academic publications, we document persistent and sizable negative gender gaps. Women are less likely to ever publish than men and publishing women publish less publications than publishing men in all fields of research and career stages. These negative gaps have not declined over time and are not particularly worse in STEM. Our findings provide evidence of substantial and persistent gendered barriers operating early in academic career. We estimate that removing these barriers would increase the population of women in research by about 27%.</sub>
 </p>
  
 <p align="justify">
