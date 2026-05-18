@@ -5,7 +5,7 @@ title: "Aliénor Bisantis"
 
 I am a 4th year PhD Candidate in economics at Aix-Marseille School of Economics (AMSE) under the supervision of [Yann Bramoullé](https://sites.google.com/site/bramoulley/)  and [Roberta Ziparo](https://sites.google.com/site/rziparo/).
 
-In October 2026, I will join the Geneva School of Economics and Management (University of Geneval) as a Postdoctoral Fellow.
+In October 2026, I will join the Geneva School of Economics and Management (University of Geneva) as a Postdoctoral Fellow.
 
 In my research, I document gender gaps across academic disciplines and examine how competition in male-dominated environments affects women's performance and career trajectories.
 
